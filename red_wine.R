@@ -66,5 +66,5 @@ mine.heatmap <- ggplot(data = winequality_red, mapping = aes(x = alcohol, y = su
 
 mine.heatmap
 
-#Between 11 and 12 grades for alcohol and 0.4 and 0.6 for sulphates, there are the best wine quality
+#Between 11 and 12 grades for  alcohol and 0.4 and 0.6 for sulphates, there are the best wine quality
 
